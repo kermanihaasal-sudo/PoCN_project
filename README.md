@@ -1,7 +1,7 @@
 # PoCN_project
 
 Final project for the "Physics of Complex Networks: structure and dynamics" master course.
-The folders task_x contain the code and the results (stored in files) used to produce the plots in the report (report.pdf).
+computational project's outputs are stored in "outputs" containing merged datasets, nod and edge file and a co-occurance graph per language.
 
 ### Task #35: Coupled Game Theory
 score: 0.4
