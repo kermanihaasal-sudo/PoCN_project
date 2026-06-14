@@ -1,7 +1,7 @@
 # PoCN_project
 
 Final project for the "Physics of Complex Networks: structure and dynamics" master course.
-computational project's outputs are stored in "outputs" containing merged datasets, nod and edge file and a co-occurance graph per language.
+computational project's outputs are stored in "outputs" containing merged datasets,network descriptor's file nod and edge file and a co-occurance graph per language.
 plot results are all stored in "images" in "latex" directory.
 
 ### Task #35: Coupled Game Theory
