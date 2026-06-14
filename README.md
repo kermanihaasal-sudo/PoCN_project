@@ -3,10 +3,10 @@
 Final project for the "Physics of Complex Networks: structure and dynamics" master course.
 The folders task_x contain the code and the results (stored in files) used to produce the plots in the report (report.pdf).
 
-### Task #34: Game Theory on networks
+### Task #35: Coupled Game Theory
 score: 0.4
 
-This project investigates the co-evolution of strategies and update rules in the Prisoner's Dilemma game on complex networks, following the work of Cardillo et al. (2010). The goal is to reproduce the main results on Erdős–Rényi and Barabási–Albert networks and analyze how network topology and learning dynamics affect the emergence of cooperation.
+We consider two articles discussing two different but related models of collective behavior on networks. The first article studies the interplay between social and strategic imitation, while the second studies the coevolution of synchronization and cooperation in costly networked interactions.
 
 ### Task#44: Universal features of multilingual word networks
 Score: 1.2
